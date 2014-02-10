@@ -1,0 +1,22 @@
+{
+	"name": "CLass4Tutorial",
+	"description": "Doing this in class",
+	"version" : "0.0.1",
+	"author": "Rahim Islam",
+	"engines": {
+		"node": "0.10.25",
+		"npm" : "1.3.24",
+	},
+
+	"dependencies": {
+		"express":"latest",
+		"ejs":"latest"
+
+	}
+
+
+
+
+
+
+}
